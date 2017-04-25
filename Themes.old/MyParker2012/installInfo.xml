@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Theme xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.jenzabar.net/jics/themes/themecreationinfo">
+  <Name>MyParker2012</Name>
+  <DisplayName>MyParker 2012</DisplayName>
+  <Author>Christopher Petrie</Author>
+  <Description>MyParker 2012 builds on the Aegean theme provided with the default JICS installation. It is intended to replicate the look and feel of the new Enrollment microsite. Look for rounded corners and dynamically created "more" dropdown holding any tabs that don't fit in the window.</Description>
+  <Version>18</Version>
+  <HtmlType>div</HtmlType>
+  <DisableDefaultCss>False</DisableDefaultCss>
+  <DisableCustomCss>True</DisableCustomCss>
+  <ReadMe></ReadMe>
+</Theme>
